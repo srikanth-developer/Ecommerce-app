@@ -1,0 +1,10 @@
+Git
+----------------
+1.view tab-->command palatte
+2.Add Remote click on it
+3.paste repostiory url from Git
+4.Add app name
+5.click on source control ,file changes + button click on  it
+6.write comment and click on tick
+7.click on master to push
+===========================================
